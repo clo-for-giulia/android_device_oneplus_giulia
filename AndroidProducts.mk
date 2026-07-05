@@ -5,4 +5,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/custom_giulia.mk
+    $(LOCAL_DIR)/giulia.mk

@@ -18,7 +18,7 @@ $(call inherit-product, vendor/custom/config/common_full_phone.mk)
 ASCP_MAINTAINER := 0mar
 ASCP_OFFICIAL := true
 
-PRODUCT_NAME := custom_giulia
+PRODUCT_NAME := giulia
 PRODUCT_DEVICE := giulia
 PRODUCT_MANUFACTURER := OnePlus
 PRODUCT_BRAND := OnePlus
