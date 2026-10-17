@@ -1,1 +1,2 @@
 import /odm/etc/${ro.boot.prjname}/build.${ro.boot.hardware.revision}.prop
+import /odm/etc/${ro.boot.prjname}/build.EU.prop
