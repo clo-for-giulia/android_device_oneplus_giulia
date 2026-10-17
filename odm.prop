@@ -1,6 +1,14 @@
 # Regional properties
 ro.product.property_source_order=odm,vendor,product,system_ext,system
 import /odm/etc/${ro.boot.prjname}/build.default.prop
+import /odm/etc/${ro.boot.prjname}/build.EU.prop
+
+# eSIM
+ro.vendor.oplus.esim.support=2
+ro.vendor.oplus.radio.esim.feature=2
+ro.vendor.oplus.radio.esim.default.on=1
+persist.vendor.oplus.radio.esim.gpio.status=1
+persist.vendor.esim.gpio.status=1
 
 # Sensors
 ro.vendor.oplus.sensor.high_pwm_rgb=true
